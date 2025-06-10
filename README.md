@@ -59,13 +59,6 @@ Check out the working demo:
 
 ---
 
-## 📂 Source Code
-
-GitHub Repository:  
-👉 [https://github.com/ideviftekhar/JellyJellyTest](https://github.com/ideviftekhar/JellyJellyTest)
-
----
-
 ## 📦 Installation Guide
 
 1. Clone the repo:
